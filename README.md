@@ -20,8 +20,7 @@ Python, Streamlit, Google Gemini API, SQLite
 * SQL Query
 ![alt text](<Screenshot 2026-06-22 020027.png>)
 
-* DATA Inserted
-![alt text](<Screenshot 2026-06-22 020501.png>)
+
 
 ## How to Run
 * Create .env file for storing GOOGLE_API_KEY
