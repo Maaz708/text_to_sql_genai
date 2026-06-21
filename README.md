@@ -1,4 +1,4 @@
-## Gemini End-to-End AI Projects
+## Text to SQL and Retriever
 
 This project is a small Streamlit-based AI applications built using the Google Gemini API that can convert text-to-SQL and can retrieve data from database connected.
 
